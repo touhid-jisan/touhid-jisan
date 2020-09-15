@@ -26,9 +26,10 @@
   &emsp;
   <a href="http://touhid-jisan.github.io/">
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
-  </a>                                                                          
+  </a>
+  <br> 
   <strong>Check out my work below!</strong>
-  <br> <br>  
+    
   <a href="https://github.com/touhid-jisan">
     <img src="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
   </a>
