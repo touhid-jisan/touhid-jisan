@@ -2,6 +2,7 @@
 <img align="right" width="225" height="225" src="https://touhid-jisan.github.io/img/about-us.png">
 <div>
   <h3> </h3>
+  <h3> </h3>
   <h3>Hi there 👋</h3>
   <h1>I AM MD. TOUHIDUL ISLAM</h1>
   <h3>Software Engineer</h3>
@@ -31,16 +32,16 @@
   <strong>Check out my work below!</strong>
   <br> <br>
   
-  <a href="">
+  <a href="https://github.com/touhid-jisan">
     <img src="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
   </a>
-  <a href="">
+  <a href="https://github.com/touhid-jisan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github">
   </a>
-  <a href="">
+  <a href="https://gist.github.com/touhid-jisan">
     <img src="https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github">
   </a>
-  <a href="">
+  <a href="https://github.com/touhid-jisan">
     <img src="https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github">
   </a>
 </div>
