@@ -5,17 +5,15 @@
   <h3> </h3>
   <h3>Hi there 👋</h3>
   <h1>I AM MD. TOUHIDUL ISLAM</h1>
-  <h3>Software Engineer</h3>
-  <!--<div>
-    <h3> <a href="https://touhid-jisan.github.io/pdf/Touhidul_Islam.pdf"><span>Get CV</span></a></h3>
-  </div> -->
+ <!-- <h3>Software Engineer</h3> -->
+  <h3> <a href="https://touhid-jisan.github.io/pdf/Touhidul_Islam.pdf"><span>Get CV</span></a></h3>
 </div>
 </div>
 <br/><br/><br/><br/><br/>
 
 <div align="center">
   
-  &emsp;
+
   <a href= "https://www.instagram.com/touhid_jisan/">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
