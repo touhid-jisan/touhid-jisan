@@ -13,7 +13,7 @@
 
 <div align="center">
   
-
+  &emsp;
   <a href= "https://www.instagram.com/touhid_jisan/">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
   <br> 
-  <strong>Check out my work below!</strong>
+  <strong>Check out my work below!</strong> <br>
     
   <a href="https://github.com/touhid-jisan">
     <img src="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
