@@ -13,7 +13,6 @@
 
 <div align="center">
   
-  &emsp;
   <a href= "https://www.instagram.com/touhid_jisan/">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
