@@ -28,16 +28,16 @@
   <strong>Check out my work below!</strong> <br>
     
   <a href="https://github.com/touhid-jisan">
-    <img src="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
+  [![Years Badge](https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
   </a>
   <a href="https://github.com/touhid-jisan?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github">
+  [![Repos Badge](https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
   </a>
   <a href="https://gist.github.com/touhid-jisan">
-    <img src="https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github">
-  </a>
+  [![Gists Badge](https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
+  </a> 
   <a href="https://github.com/touhid-jisan">
-    <img src="https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github">
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
   </a>
 </div>
 <hr><hr>
