@@ -27,18 +27,14 @@
   <br> 
   <strong>Check out my work below!</strong> <br>
     
-  <a href="https://github.com/touhid-jisan">
   [![Years Badge](https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  </a>
-  <a href="https://github.com/touhid-jisan?tab=repositories">
+  
   [![Repos Badge](https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  </a>
-  <a href="https://gist.github.com/touhid-jisan">
+  
   [![Gists Badge](https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  </a> 
-  <a href="https://github.com/touhid-jisan">
+  
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  </a>
+  
 </div>
 <hr><hr>
 <!--
