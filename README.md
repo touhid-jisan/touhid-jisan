@@ -11,8 +11,7 @@
 </div>
 <br/><br/><br/><br/><br/>
 
-<div align="center">
-  
+<p align="center">
   <a href= "https://www.instagram.com/touhid_jisan/">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
@@ -25,17 +24,21 @@
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
   <br> 
-  <strong>Check out my work below!</strong> <br>
-    
-  [![Years Badge](https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
+  <strong>Check out my work below!</strong><br>
   
-  [![Repos Badge](https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  
-  [![Gists Badge](https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
-  
-</div>
+  <a href="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/touhid-jisan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/touhid-jisan?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/touhid-jisan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/touhid-jisan">
+    <img src="https://badges.pufler.dev/gists/touhid-jisan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/touhid-jisan">
+    <img src="https://badges.pufler.dev/commits/monthly/touhid-jisan?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 <hr><hr>
 <!--
 **touhid-jisan/touhid-jisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
